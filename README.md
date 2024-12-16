@@ -2,20 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fphealthdiseaseprediction.streamlit.app/)
 
-# Health Disease Prediction Using Modeling and Simulation
-
 This project demonstrates the application of modeling and simulation techniques for predicting health risks. It explores synthetic health datasets, performs statistical analyses, and develops predictive machine learning models. The interactive web application allows users to load datasets, visualize data, and evaluate machine learning models.
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Datasets](#datasets)
-- [Machine Learning Models](#machine-learning-models)
-- [Visualization Tools](#visualization-tools)
-- [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Overview
 This project aims to provide insights into understanding and managing health risks effectively. It is designed as a step-by-step interactive tool to:
@@ -28,33 +15,6 @@ This project aims to provide insights into understanding and managing health ris
 - **Model Training and Evaluation**: Select and train models such as Random Forest, Logistic Regression, and Gradient Boosting.
 - **Interactive Visualizations**: Generate pairplots and correlation heatmaps.
 - **Feature Importance Analysis**: Display the importance of features for tree-based models.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-### Prerequisites
-- Python 3.8 or later
-- pip package manager
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/health-disease-prediction.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd health-disease-prediction
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the application:
-   ```bash
-   streamlit run app.py
-   ```
-5. Open your browser and navigate to `http://localhost:8501` to access the app.
 
 ## Usage
 1. Launch the app using Streamlit.
@@ -104,9 +64,6 @@ The following models are supported:
 - Provide advanced visualization options such as PCA and t-SNE.
 - Deploy the app online for broader accessibility.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
-Created by [Your Name] as part of the CSEC 413: Modeling and Simulation Final Project.
+Created by [May Angeling] as part of the CSEC 413: Modeling and Simulation Final Project.
