@@ -58,12 +58,6 @@ The following models are supported:
 - **Correlation Heatmap**: Identify correlations between features.
 - **Feature Importance**: Analyze the importance of features for tree-based models.
 
-## Future Improvements
-- Add more datasets for analysis.
-- Implement additional machine learning models.
-- Provide advanced visualization options such as PCA and t-SNE.
-- Deploy the app online for broader accessibility.
-
 ---
 
 Created by [May Angeling] as part of the CSEC 413: Modeling and Simulation Final Project.
